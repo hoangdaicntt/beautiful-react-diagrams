@@ -1,8 +1,8 @@
-![CI/CD](https://github.com/beautifulinteractions/beautiful-react-diagrams/workflows/CI/CD/badge.svg)
+![CI/CD](https://github.com/antonioru/beautiful-react-diagrams/workflows/CI/CD/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Coverage Status](https://coveralls.io/repos/github/beautifulinteractions/beautiful-react-diagrams/badge.svg?branch=master)](https://coveralls.io/github/beautifulinteractions/beautiful-react-diagrams?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/antonioru/beautiful-react-diagrams/badge.svg?branch=master)](https://coveralls.io/github/antonioru/beautiful-react-diagrams?branch=master)
 ![npm](https://img.shields.io/npm/v/beautiful-react-diagrams)
-![GitHub stars](https://img.shields.io/github/stars/beautifulinteractions/beautiful-react-diagrams?style=social)
+![GitHub stars](https://img.shields.io/github/stars/antonioru/beautiful-react-diagrams?style=social)
 
 <div align="center">
   <p align="center">
@@ -32,7 +32,7 @@ Javascript diagramming libraries are often difficult to integrate in React proje
 Different patterns not always fit the React nature and having a component's state in in sync with an external
 diagramming library might be quite difficult especially when the latter had been built in a different paradigm (such as MVC, for example).
 
-For this reason we created `beautiful-react-diagrams` an easy-to-customise functional diagramming library to build
+For this reason we created `beautiful-react-diagrams` an easy-to-customise functional diagramming library to build 
 diagrams with ease.
 
 ## 🎓 Principles
@@ -59,7 +59,7 @@ diagrams with ease.
 
 ## Contributing
 
-Contributions are very welcome and wanted.
+Contributions are very welcome and wanted. 
 
 To submit your custom pull request, please make sure your read our [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
 
@@ -70,17 +70,9 @@ To submit your custom pull request, please make sure your read our [CONTRIBUTING
 4. make sure you've added the documentation of your changes.
 5. if you've changed the signature of a component, please make sure you've updated the `index.d.ts` file.
 
-## Versioning
-
-This library follows the [semver](https://semver.org) versioning standard.
-Pre-release commits on the `master` branch, including merge commits, lead 
-to automated publication to NPM under the `next` tag. Pre-release version
-numbers must follow the `<major>.<minor>.<patch>-<tag>.<number>`, such as 
-`5.1.0-rc.0`. 
-
 ### Credits
 
-This library is provided and sponsored by:
+This library is provided and sponsored by: 
 
 <div>
   <p>
@@ -94,4 +86,4 @@ As part of our commitment to support and contribute to the open source community
 
 ---
 
-This library logo has been created using images published by the user [Freepik](https://www.flaticon.com/authors/freepik) on [www.flaticon.com](https://www.flaticon.com/free-icon/hook_1081812)
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/free-icon/hook_1081812)
